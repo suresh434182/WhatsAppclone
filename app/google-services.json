@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606335747210",
+    "project_id": "my-project-1576924255053",
+    "storage_bucket": "my-project-1576924255053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606335747210:android:615b068e1648f29d779973",
+        "android_client_info": {
+          "package_name": "suresh.com.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606335747210-dh8upta303lq91kibkjbnn18ctv1858n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBLLeNF5q4SYcJjgoL7hMPJ_Od6qjOjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606335747210-dh8upta303lq91kibkjbnn18ctv1858n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
